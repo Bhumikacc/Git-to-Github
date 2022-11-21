@@ -1,2 +1,2 @@
-This is to test manual and automatic CI for git->github->jenkins
+This is to test manual CI for git->github->jenkins
 Testing the automatic continuous integration
